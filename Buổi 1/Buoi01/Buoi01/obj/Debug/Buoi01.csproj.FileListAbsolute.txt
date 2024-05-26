@@ -1,0 +1,7 @@
+C:\Học tập\Bài Tập\Lý thuyết đồ thị\Buổi 1\Buoi01\Buoi01\obj\Debug\Buoi01.csproj.AssemblyReference.cache
+C:\Học tập\Bài Tập\Lý thuyết đồ thị\Buổi 1\Buoi01\Buoi01\obj\Debug\Buoi01.csproj.CoreCompileInputs.cache
+C:\Học tập\Bài Tập\Lý thuyết đồ thị\Buổi 1\Buoi01\Buoi01\bin\Debug\Buoi01.exe.config
+C:\Học tập\Bài Tập\Lý thuyết đồ thị\Buổi 1\Buoi01\Buoi01\bin\Debug\Buoi01.exe
+C:\Học tập\Bài Tập\Lý thuyết đồ thị\Buổi 1\Buoi01\Buoi01\bin\Debug\Buoi01.pdb
+C:\Học tập\Bài Tập\Lý thuyết đồ thị\Buổi 1\Buoi01\Buoi01\obj\Debug\Buoi01.exe
+C:\Học tập\Bài Tập\Lý thuyết đồ thị\Buổi 1\Buoi01\Buoi01\obj\Debug\Buoi01.pdb

@@ -1,0 +1,7 @@
+D:\CODE\MVS\Buoi5TH\Buoi5TH\bin\Debug\Buoi5TH.exe.config
+D:\CODE\MVS\Buoi5TH\Buoi5TH\bin\Debug\Buoi5TH.exe
+D:\CODE\MVS\Buoi5TH\Buoi5TH\bin\Debug\Buoi5TH.pdb
+D:\CODE\MVS\Buoi5TH\Buoi5TH\obj\Debug\Buoi5TH.csproj.AssemblyReference.cache
+D:\CODE\MVS\Buoi5TH\Buoi5TH\obj\Debug\Buoi5TH.csproj.CoreCompileInputs.cache
+D:\CODE\MVS\Buoi5TH\Buoi5TH\obj\Debug\Buoi5TH.exe
+D:\CODE\MVS\Buoi5TH\Buoi5TH\obj\Debug\Buoi5TH.pdb

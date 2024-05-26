@@ -1,0 +1,14 @@
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\bin\Debug\netcoreapp3.1\Buoi4.exe
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\bin\Debug\netcoreapp3.1\Buoi4.deps.json
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\bin\Debug\netcoreapp3.1\Buoi4.runtimeconfig.json
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\bin\Debug\netcoreapp3.1\Buoi4.runtimeconfig.dev.json
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\bin\Debug\netcoreapp3.1\Buoi4.dll
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\bin\Debug\netcoreapp3.1\Buoi4.pdb
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\obj\Debug\netcoreapp3.1\Buoi4.csproj.AssemblyReference.cache
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\obj\Debug\netcoreapp3.1\Buoi4.GeneratedMSBuildEditorConfig.editorconfig
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\obj\Debug\netcoreapp3.1\Buoi4.AssemblyInfoInputs.cache
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\obj\Debug\netcoreapp3.1\Buoi4.AssemblyInfo.cs
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\obj\Debug\netcoreapp3.1\Buoi4.csproj.CoreCompileInputs.cache
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\obj\Debug\netcoreapp3.1\Buoi4.dll
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\obj\Debug\netcoreapp3.1\Buoi4.pdb
+D:\22dh112361_MaiHuuNghia\Buoi4\Buoi4\Buoi4\obj\Debug\netcoreapp3.1\Buoi4.genruntimeconfig.cache

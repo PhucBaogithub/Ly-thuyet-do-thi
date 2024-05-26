@@ -1,0 +1,7 @@
+Bậc vào - Bậc ra
+Bậc của đỉnh 1 : 0 - 2
+Bậc của đỉnh 2 : 3 - 2
+Bậc của đỉnh 3 : 1 - 2
+Bậc của đỉnh 4 : 1 - 2
+Bậc của đỉnh 5 : 3 - 2
+Bậc của đỉnh 6 : 2 - 0

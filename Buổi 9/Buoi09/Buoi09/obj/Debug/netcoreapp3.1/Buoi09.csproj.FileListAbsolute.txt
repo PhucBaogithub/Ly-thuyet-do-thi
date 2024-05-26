@@ -1,0 +1,14 @@
+C:\Users\SV\source\repos\Buoi09\Buoi09\bin\Debug\netcoreapp3.1\Buoi09.exe
+C:\Users\SV\source\repos\Buoi09\Buoi09\bin\Debug\netcoreapp3.1\Buoi09.deps.json
+C:\Users\SV\source\repos\Buoi09\Buoi09\bin\Debug\netcoreapp3.1\Buoi09.runtimeconfig.json
+C:\Users\SV\source\repos\Buoi09\Buoi09\bin\Debug\netcoreapp3.1\Buoi09.runtimeconfig.dev.json
+C:\Users\SV\source\repos\Buoi09\Buoi09\bin\Debug\netcoreapp3.1\Buoi09.dll
+C:\Users\SV\source\repos\Buoi09\Buoi09\bin\Debug\netcoreapp3.1\Buoi09.pdb
+C:\Users\SV\source\repos\Buoi09\Buoi09\obj\Debug\netcoreapp3.1\Buoi09.csproj.AssemblyReference.cache
+C:\Users\SV\source\repos\Buoi09\Buoi09\obj\Debug\netcoreapp3.1\Buoi09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SV\source\repos\Buoi09\Buoi09\obj\Debug\netcoreapp3.1\Buoi09.AssemblyInfoInputs.cache
+C:\Users\SV\source\repos\Buoi09\Buoi09\obj\Debug\netcoreapp3.1\Buoi09.AssemblyInfo.cs
+C:\Users\SV\source\repos\Buoi09\Buoi09\obj\Debug\netcoreapp3.1\Buoi09.csproj.CoreCompileInputs.cache
+C:\Users\SV\source\repos\Buoi09\Buoi09\obj\Debug\netcoreapp3.1\Buoi09.dll
+C:\Users\SV\source\repos\Buoi09\Buoi09\obj\Debug\netcoreapp3.1\Buoi09.pdb
+C:\Users\SV\source\repos\Buoi09\Buoi09\obj\Debug\netcoreapp3.1\Buoi09.genruntimeconfig.cache

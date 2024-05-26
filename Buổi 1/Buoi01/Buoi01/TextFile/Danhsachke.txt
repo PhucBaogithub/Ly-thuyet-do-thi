@@ -1,0 +1,5 @@
+Bậc của đỉnh 1: 2
+Bậc của đỉnh 2: 3
+Bậc của đỉnh 3: 3
+Bậc của đỉnh 4: 1
+Bậc của đỉnh 5: 3

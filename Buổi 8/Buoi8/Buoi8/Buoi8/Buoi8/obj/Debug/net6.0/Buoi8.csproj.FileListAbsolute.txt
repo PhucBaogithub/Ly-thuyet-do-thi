@@ -1,0 +1,28 @@
+D:\THltdt\Buoi8\Buoi8\bin\Debug\net6.0\Buoi8.exe
+D:\THltdt\Buoi8\Buoi8\bin\Debug\net6.0\Buoi8.deps.json
+D:\THltdt\Buoi8\Buoi8\bin\Debug\net6.0\Buoi8.runtimeconfig.json
+D:\THltdt\Buoi8\Buoi8\bin\Debug\net6.0\Buoi8.dll
+D:\THltdt\Buoi8\Buoi8\bin\Debug\net6.0\Buoi8.pdb
+D:\THltdt\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.GeneratedMSBuildEditorConfig.editorconfig
+D:\THltdt\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.AssemblyInfoInputs.cache
+D:\THltdt\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.AssemblyInfo.cs
+D:\THltdt\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.csproj.CoreCompileInputs.cache
+D:\THltdt\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.dll
+D:\THltdt\Buoi8\Buoi8\obj\Debug\net6.0\refint\Buoi8.dll
+D:\THltdt\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.pdb
+D:\THltdt\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.genruntimeconfig.cache
+D:\THltdt\Buoi8\Buoi8\obj\Debug\net6.0\ref\Buoi8.dll
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\bin\Debug\net6.0\Buoi8.exe
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\bin\Debug\net6.0\Buoi8.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\bin\Debug\net6.0\Buoi8.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\bin\Debug\net6.0\Buoi8.dll
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\bin\Debug\net6.0\Buoi8.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.dll
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\obj\Debug\net6.0\refint\Buoi8.dll
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\obj\Debug\net6.0\Buoi8.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\Buoi8\Buoi8\Buoi8\obj\Debug\net6.0\ref\Buoi8.dll

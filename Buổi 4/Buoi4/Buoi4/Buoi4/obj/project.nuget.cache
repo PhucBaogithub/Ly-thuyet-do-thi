@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2366HNHoz2zt7p8X20r81/w7GjzfxMeHyuKkgSH7ltoInu7l7Lx6ORizXVCl49hOSc1yAtqeKAc274EM+HvIrg==",
+  "success": true,
+  "projectFilePath": "D:\\22dh112361_MaiHuuNghia\\Buoi4\\Buoi4\\Buoi4\\Buoi4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

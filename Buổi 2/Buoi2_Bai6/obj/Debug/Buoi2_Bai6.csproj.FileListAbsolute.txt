@@ -1,0 +1,7 @@
+C:\Users\nguye\OneDrive\Máy tính\SchoolSpace\ly_thuyet_do_thi\th_lop\22DH114418\Buoi2_Bai6\bin\Debug\Buoi2_Bai6.exe.config
+C:\Users\nguye\OneDrive\Máy tính\SchoolSpace\ly_thuyet_do_thi\th_lop\22DH114418\Buoi2_Bai6\bin\Debug\Buoi2_Bai6.exe
+C:\Users\nguye\OneDrive\Máy tính\SchoolSpace\ly_thuyet_do_thi\th_lop\22DH114418\Buoi2_Bai6\bin\Debug\Buoi2_Bai6.pdb
+C:\Users\nguye\OneDrive\Máy tính\SchoolSpace\ly_thuyet_do_thi\th_lop\22DH114418\Buoi2_Bai6\obj\Debug\Buoi2_Bai6.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\SchoolSpace\ly_thuyet_do_thi\th_lop\22DH114418\Buoi2_Bai6\obj\Debug\Buoi2_Bai6.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\SchoolSpace\ly_thuyet_do_thi\th_lop\22DH114418\Buoi2_Bai6\obj\Debug\Buoi2_Bai6.exe
+C:\Users\nguye\OneDrive\Máy tính\SchoolSpace\ly_thuyet_do_thi\th_lop\22DH114418\Buoi2_Bai6\obj\Debug\Buoi2_Bai6.pdb
